@@ -3,3 +3,6 @@ this is the first file
 adding new data
 
 trying rebase
+
+trying git diff
+
